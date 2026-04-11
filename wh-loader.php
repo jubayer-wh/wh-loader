@@ -1,9 +1,9 @@
 <?php
 /**
  * Plugin Name: WH Loader
- * Plugin URI: https://github.com/jubayer-wh/wh-loader/
+ * Plugin URI: https://wordpress.org/plugins/wh-loader/
  * Description: A sleek Windows 11 style preloader for your website. Fully customizable brand name and colors via the WordPress dashboard.
- * Version: 1.1
+ * Version: 1.2
  * Author: Jubayer Hossain
  * Author URI: https://webkih.com/about/
  * License: GPLv2 or later
